@@ -1,0 +1,112 @@
+========================================
+REEMBOLSOS - LOJA VIRTUAL EXEMPLO
+========================================
+
+1. POLÍTICA GERAL DE REEMBOLSO
+--------------------------------------------------
+A loja permite solicitação de reembolso em até 7 dias corridos após o recebimento do produto, conforme o direito de arrependimento.
+
+Após esse prazo, reembolsos só serão avaliados nos casos de:
+- Produto com defeito
+- Produto danificado no transporte
+- Produto incorreto enviado
+- Produto não entregue
+
+2. PRAZO PARA SOLICITAÇÃO
+--------------------------------------------------
+- Arrependimento: até 7 dias corridos após recebimento.
+- Produto com defeito: até 30 dias para bens não duráveis.
+- Produto com defeito: até 90 dias para bens duráveis.
+- Produto não entregue: pode ser solicitado após prazo máximo de entrega excedido em 5 dias úteis.
+
+3. CONDIÇÕES PARA APROVAÇÃO
+--------------------------------------------------
+Para reembolso por arrependimento:
+- Produto deve estar sem uso.
+- Produto deve estar na embalagem original.
+- Deve conter todos os acessórios e manuais.
+- Nota fiscal deve ser apresentada.
+
+Para produto com defeito:
+- Envio de fotos ou vídeos comprovando o problema.
+- Número do pedido.
+- Descrição detalhada do defeito.
+
+4. PRAZO DE ANÁLISE
+--------------------------------------------------
+- O prazo para análise da solicitação é de até 5 dias úteis.
+- Caso necessário envio do produto, a análise começa após o recebimento em nosso centro de distribuição.
+
+5. FORMAS DE REEMBOLSO
+--------------------------------------------------
+Cartão de crédito:
+- Estorno realizado na fatura.
+- Prazo: 1 a 2 ciclos de faturamento, dependendo da operadora.
+
+Pix:
+- Reembolso via chave Pix informada.
+- Prazo: até 3 dias úteis após aprovação.
+
+Boleto:
+- Reembolso via transferência bancária.
+- Cliente deve informar dados bancários.
+- Prazo: até 5 dias úteis após aprovação.
+
+Saldo em carteira:
+- Crédito imediato após aprovação.
+- Validade de 12 meses.
+
+6. CASOS EM QUE O REEMBOLSO NÃO É APROVADO
+--------------------------------------------------
+- Produto com sinais de uso inadequado.
+- Produto danificado por mau uso.
+- Solicitação fora do prazo legal.
+- Produto personalizado ou sob encomenda (exceto defeito).
+- Ausência de comprovação da compra.
+
+7. PROCESSO PASSO A PASSO
+--------------------------------------------------
+1. Cliente acessa "Meus Pedidos".
+2. Seleciona o pedido.
+3. Clica em "Solicitar Reembolso".
+4. Escolhe motivo.
+5. Anexa evidências (se necessário).
+6. Aguarda análise.
+
+8. TROCA VS REEMBOLSO
+--------------------------------------------------
+Troca:
+- Produto substituído por outro igual.
+- Sem devolução de valor.
+
+Reembolso:
+- Valor devolvido ao cliente.
+- Pedido é cancelado após aprovação.
+
+9. PRAZO DE DEVOLUÇÃO DO PRODUTO
+--------------------------------------------------
+Após aprovação da devolução:
+- Cliente tem 7 dias corridos para postar o produto.
+- Código de logística reversa será enviado por e-mail.
+
+10. REEMBOLSO PARCIAL
+--------------------------------------------------
+Pode ocorrer quando:
+- Apenas parte do pedido foi devolvida.
+- Foi aplicado cupom de desconto proporcional.
+- Frete não é reembolsável (em caso de arrependimento parcial).
+
+11. PRODUTO NÃO ENTREGUE
+--------------------------------------------------
+Antes de aprovar reembolso:
+- Confirmar status com transportadora.
+- Verificar tentativa de entrega.
+- Validar endereço informado.
+
+Se confirmado extravio:
+- Reembolso integral ou reenvio do produto.
+
+12. CONTATO PARA SUPORTE
+--------------------------------------------------
+E-mail: suporte@lojavirtual.com
+Prazo de resposta: até 24h úteis.
