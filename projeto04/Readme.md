@@ -17,7 +17,7 @@ pip install anthropic python-dotenv
 Crie um arquivo `.env` na raiz do projeto:
 
 ```
-ANTHROPIC_API_KEY=sua_chave_aqui
+GROQ_API_KEY=sua_chave_aqui
 ```
 
 ### 3. Execute
